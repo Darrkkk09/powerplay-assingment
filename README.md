@@ -151,6 +151,7 @@ The **Frontend** (`/Frontend`) is a Vite‑powered React app that consumes those
   - **Computed `total`** – stored for quick sorting/filtering; recalculated on write.
 
 
+
 ## API Reference
 
 All routes are mounted under `/api`.
