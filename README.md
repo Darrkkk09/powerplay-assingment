@@ -90,7 +90,7 @@ The **Frontend** (`/Frontend`) is a Vite‑powered React app that consumes those
    ```
 2. **Create a `.env` file** in the `Backend` folder with the following keys (replace placeholders with your own values):
    ```dotenv
-   MONGO_URL=mongodb+srv://campus-connect_db_user:iBUv3IpBQHLHKtXD@all-in-one.vktdcso.mongodb.net/?appName=all-in-one
+   MONGO_URL=[IN THE REPLY MAIL ID]
    ```
 3. **Install dependencies** (exact lockfile versions are enforced):
    ```bash
