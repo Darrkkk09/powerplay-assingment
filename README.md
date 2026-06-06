@@ -90,7 +90,7 @@ The **Frontend** (`/Frontend`) is a Vite‑powered React app that consumes those
    ```
 2. **Create a `.env` file** in the `Backend` folder with the following keys (replace placeholders with your own values):
    ```dotenv
-   MONGO_URL=[IN THE REPLY MAIL ID]
+   MONGO_URL=mongodb://localhost:27017/powerplay
    ```
 3. **Install dependencies** (exact lockfile versions are enforced):
    ```bash
