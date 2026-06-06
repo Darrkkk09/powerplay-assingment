@@ -74,9 +74,9 @@ The **Frontend** (`/Frontend`) is a Vite‑powered React app that consumes those
 
 ## Prerequisites
 
-- **Node.js** ≥ 22 (the version you have installed will work).
-- **npm** (shipped with Node) – used for package management.
-- **MongoDB Atlas** cluster or a local MongoDB instance.
+- **Node.js** 
+- **npm** – used for package management.
+- **MongoDB Atlas** i basically used cluster in Project u can also use local MongoDB instance.
 - **Git** – for cloning the repo.
 
 ---
