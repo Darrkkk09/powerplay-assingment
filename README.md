@@ -150,11 +150,6 @@ The **Frontend** (`/Frontend`) is a Vite‑powered React app that consumes those
   - **Embedded `items`** – invoice line items are tightly coupled to the invoice; they rarely need independent queries, so embedding simplifies data retrieval.
   - **Computed `total`** – stored for quick sorting/filtering; recalculated on write.
 
-### Why MongoDB?
-- Schema flexibility for evolving business rules.
-- Built‑in support for ObjectId references and population (via Mongoose), which mirrors relational foreign‑keys without rigid joins.
-
----
 
 ## API Reference
 
